@@ -1,3 +1,8 @@
+
+![Rzhlm's stats](https://github-readme-stats.vercel.app/api?username=rzhlm&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzhlm&layout=compact)
+
+
 ## Interests
 Data Science, DevOps
 
@@ -5,9 +10,10 @@ Data Science, DevOps
 
 - [Asteroids game](https://github.com/rzhlm/asteroids) (Python) Using PyGame, task given by Boot.dev
   
-  ### minor tools
+  ### minor tools & things
   - [Danish Keys]() (AutoIt) Modifies any Windows keyboard mapping to include the danish keys ø, å and æ. (See also Golang version soon)
   - [Belgian Apple AZERTY]() (Ukelele) Modifies the non-standard Apple keyboard for the Belgian AZERTY keymap back to the standard version.
+  - [Exercism] (C/Python/Golang) code challenges
 
 
 ## Work In Progress
@@ -27,8 +33,6 @@ Data Science, DevOps
 ![]()
 
 
-![Rzhlm's stats](https://github-readme-stats.vercel.app/api?username=rzhlm&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzhlm&layout=compact)
 
 <!--
 **rzhlm/rzhlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
