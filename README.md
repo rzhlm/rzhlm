@@ -4,6 +4,7 @@ Data Science, DevOps
 ## Finished Projects
 
 - [Asteroids game](https://github.com/rzhlm/asteroids) (Python) Using PyGame, task given by Boot.dev
+### minor tools
 - [Danish Keys]() (AutoIt) Modifies any Windows keyboard mapping to include the danish keys ø, å and æ. (See also Golang version soon)
 - [Belgian Apple AZERTY]() (Ukelele) Modifies the non-standard Apple keyboard for the Belgian AZERTY keymap back to the standard version.
 
