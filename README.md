@@ -16,6 +16,13 @@ Data Science, DevOps
 - [BitTorrent proof of concept]() (Python) Can process single file torrents, connect to trackers. Downloading still to be implemented. Task given by Codecrafters
 - [Advent of Code 2023]()
 
+## Intended future Projects
+- *Mobile Bayesian Calculator* App which will
+  a) easily calculate posterior probability, given a confusion matrix
+  b) given prior & likelihood, will integrate for evidence to provide posterior
+- *Keyboard remapper* for Windows via keyboard hook
+- *Chat server & clients* chat server, containerised, GUI mobile clients
+- *Hotel Dashboard* with API connection to a cloud PMS
 
 ![]()
 
