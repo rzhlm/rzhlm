@@ -11,7 +11,7 @@ Data Science, DevOps
 ## Work In Progress
 - [Habit Tracker](https://github.com/rzhlm/IUBH-habittracker) (Python) A habit tracker app, exam project for university. Use of Design Patterns and SQL.
 - [MD to HTML](https://github.com/rzhlm/static-site-gen). (Python) A site which 'compiles' Markdown notes into a HTML website.
-- [BitTorrent proof of concept]() (Python) Can process single file torrents, connect to trackers. Downloading still to be implemented. 
+- [BitTorrent proof of concept]() (Python) Can process single file torrents, connect to trackers. Downloading still to be implemented. Task given by Codecrafters
 - [Advent of Code 2023]()
 
 
