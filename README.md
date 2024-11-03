@@ -23,7 +23,7 @@ Data Science, DevOps
 - [Advent of Code 2023]()
 
 ## Intended future Projects
-- *Mobile Bayesian Calculator* (Swift or Python/Kivy) App which will
+- *Mobile Bayesian Calculator* (Swift or Python/Kivy or Go/Fyne) App which will
   a) easily calculate posterior probability, given a confusion matrix
   b) given prior & likelihood, will integrate for evidence to provide posterior
 - *Keyboard remapper* (Golang) for Windows via keyboard hook
