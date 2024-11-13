@@ -13,7 +13,7 @@ Data Science, DevOps
   ### minor tools & things
   - [Danish Keys]() (AutoIt) Modifies any Windows keyboard mapping to include the danish keys ø, å and æ. (See also Golang version soon)
   - [Belgian Apple AZERTY]() (Ukelele) Modifies the non-standard Apple keyboard for the Belgian AZERTY keymap back to the standard version.
-  - [Exercism] (C/Python/Golang) code challenges
+  - [Exercism](https://github.com/rzhlm/Exercism) (C/Python/Golang) code challenges
 
 
 ## Work In Progress
