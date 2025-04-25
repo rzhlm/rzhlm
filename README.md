@@ -17,9 +17,9 @@ Data Science, DevOps, Statistics, Business
   - Belgian Apple AZERTY() (Ukelele) Modifies the non-standard (Belgian) Apple keyboard-layout for the standard Belgian AZERTY keymap. Swiss and German standard keymap to be added as well.
   
 ## Work In Progress
-- [Habit Tracker](https://github.com/rzhlm/IUBH-habittracker) (Python) A habit tracker app, exam project for university. Use of Design Patterns and SQL.
-- [MD to HTML](https://github.com/rzhlm/static-site-gen). (Python) A site which 'compiles' Markdown notes into a HTML website.
-- BitTorrent proof of concept() (Python) Can process single file torrents, connect to trackers. Downloading still to be implemented.
+- [Habit Tracker](https://github.com/rzhlm/IUBH-habittracker) (Python) A habit tracker app, exam project for university. Use of Design Patterns / MVC.
+- [MD to HTML](https://github.com/rzhlm/static-site-gen). (Python) App which 'compiles' Markdown notes into a HTML website.
+- [BitTorrent proof of concept](https://github.com/rzhlm/cc-bittorrent/tree/master/app) (Python) Can process single file torrents, connect to trackers. Downloading still to be implemented.
 - Advent of Code 2023, 2024()
 
 ## Possible future Projects
