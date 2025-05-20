@@ -13,7 +13,7 @@ Data Science, DevOps, Statistics, Business
   ### minor tools & things
   - [Project Euler](https://github.com/rzhlm/Euler) (Python).
   - [Exercism](https://github.com/rzhlm/Exercism) (C, Python, Golang) code challenges
-  - Danish Keys() (AutoIt) Modifies any Windows keyboard mapping to include the Danish (& Norwegian) keys: ø, å and æ.
+  - [Danish Keys](https://github.com/rzhlm/danishkeys) (AutoIt) Modifies any Windows keyboard mapping to include the Danish (& Norwegian) keys: ø, å and æ.
   - Belgian Apple AZERTY() (Ukelele) Modifies the non-standard (Belgian) Apple keyboard-layout for the standard Belgian AZERTY keymap. Swiss and German standard keymap to be added as well.
   
 ## Work In Progress
