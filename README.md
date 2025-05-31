@@ -9,6 +9,7 @@ Data Science, DevOps, Statistics, Business
 ## Finished Projects
 
 - [Habit Tracker](https://github.com/rzhlm/IUBH-habittracker) (Python) A habit tracker app, exam project for university. (i.e. design a habit tracker app, using OOP)
+- [Unsupervised Machine Learning project](https://github.com/rzhlm/IUBH-UnML) (Python) Cleaning, EDA, Clustering and Analysis of the OSMI 2016 survey.
   
   ### minor tools & things
   - [Project Euler](https://github.com/rzhlm/Euler) (Python).
